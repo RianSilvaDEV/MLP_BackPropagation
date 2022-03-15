@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MLP_BackPropagation/1.0.0": {
+        "runtime": {
+          "MLP_BackPropagation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MLP_BackPropagation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
